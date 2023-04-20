@@ -19,14 +19,12 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
   <p align="center">
     在中国大陆也能用的 GPT"
     <br />
-    <a href="https://space.bilibili.com/3493132438079618"><strong>在 Bilibili 关注 派蒙 GPT »</strong></a>
+    <a href="https://space.bilibili.com/3493132438079618"><strong>Bilibili 派蒙 GPT »</strong></a>
     .
-    <a href="https://space.bilibili.com/438071827"><strong>在 Bilibili 关注 一只很普通の金瓜 »</strong></a>
+    <a href="https://space.bilibili.com/438071827"><strong>Bilibili 一只很普通の金瓜 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/PlayMcBKuwu/chinagpt/issues">在 本处 ISSUES 报告问题</a>
-    .
-    <a href="https://gitee.com/playmcbkuwu/chinagpt/issues">在 Gitee 中本项目 ISSUES 报告问题</a>
+    <a href="https://github.com/PlayMcBKuwu/chinagpt/issues">在 ISSUES 报告问题</a>
   </p>
 
 </p>
@@ -64,7 +62,7 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 * 项目是站在其他巨人的肩膀上，感谢各位 GPT 镜像站的搭建者！
 * 如果站点错误，请提出`Issue`，我会修复。
 * 喜欢的可以点一下`Star`，感谢各位的支持！
-* 若本处链接有侵权等问题，请在 <a href="https://github.com/PlayMcBKuwu/chinagpt/issues">本项目 ISSUES</a> 或 <a href="https://gitee.com/playmcbkuwu/chinagpt/issues">Gitee 中本项目 ISSUES</a> 或 QQ:2129767149 联系我，我将尽快处理
+* 若本处链接有侵权等问题，请在 <a href="https://github.com/PlayMcBKuwu/chinagpt/issues">本项目 ISSUES</a> 或 QQ:2129767149 联系我，我将尽快处理
 ## 贡献者们
 
 > 感谢所有让这个项目变得更好的贡献者们！请动动您那发财的小手，点一下`Star`吧！
