@@ -31,8 +31,15 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 
 ## 目录
 
+- [站点链接](#站点链接)
 - [为什么要用](#为什么要用)
 - [界面截图](#界面截图)
+
+## 站点链接
+
+1.  <a href="https://github.com/pengzhile/pandora">pengzhile 大佬的 Pandora</a>（对话主题共享）： https://chat-shared.zhile.io/shared.html
+2.  忘了是谁搭建的 GPT Chinese（只能有一个对话主题）：https://chat.gptchinese.info
+3.  （有广告，不推荐）Ext 游戏攻略网搭建的镜像站：https://chat.extkj.cn/
 
 ## 为什么要用
 
