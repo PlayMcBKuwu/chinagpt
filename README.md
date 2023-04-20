@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/PlayMcBKuwu/chinagpt/main/ChinaGPT.png" alt="ChinaGPT" width="140" height="142" />
 
 
-# ChinaGPT
+# ChinaGPT Github 主站点
 
 ChatGPT?ChinaGPT！
 
