@@ -24,7 +24,9 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
     <a href="https://space.bilibili.com/438071827"><strong>在 Bilibili 关注 一只很普通の金瓜 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/PlayMcBKuwu/chinagpt/issues">在 ISSUES 报告问题</a>
+    <a href="https://github.com/PlayMcBKuwu/chinagpt/issues">在 本处 ISSUES 报告问题</a>
+    .
+    <a href="https://gitee.com/playmcbkuwu/chinagpt/issues">在 Gitee 中本项目 ISSUES 报告问题</a>
   </p>
 
 </p>
@@ -40,13 +42,11 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 1.  <a href="https://github.com/pengzhile">pengzhile</a> 大佬的 <a href="https://github.com/pengzhile/pandora">Pandora</a>（对话主题共享）： https://chat-shared.zhile.io/shared.html
 2.  忘了是谁搭建的 GPT Chinese（只能有一个对话主题）：https://chat.gptchinese.info
 3.  （有广告，不推荐）Ext 游戏攻略网搭建的镜像站：https://chat.extkj.cn/
-（若本处链接侵权等，请在 <a href="https://github.com/PlayMcBKuwu/chinagpt/issues">本项目 ISSUES</a> 或 QQ:2129767149 联系我）
 ## 为什么要用
 
 1. ChinaGPT 将尽可能地收集无广告、响应速度快的 GPT 镜像站点。
-2. ChinaGPT 永远不会跑路
-3. 收集的站点将可以用 API Key、Access Token 和 OpenAI 账号等方式登录且无需在境外
-4. 除去登录，ChinaGPT 收集的站点将确保可以无账号使用。
+2. 收集的站点`大多数`将可以用 API Key、Access Token 和 OpenAI 账号等方式登录且无需在境外
+3. 除去登录，ChinaGPT 收集的站点将确保可以无账号使用。
 
 ## 界面截图
 
@@ -64,7 +64,7 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 * 项目是站在其他巨人的肩膀上，感谢各位 GPT 镜像站的搭建者！
 * 如果站点错误，请提出`Issue`，我会修复。
 * 喜欢的可以点一下`Star`，感谢各位的支持！
-
+* 若本处链接有侵权等问题，请在 <a href="https://github.com/PlayMcBKuwu/chinagpt/issues">本项目 ISSUES</a> 或 <a href="https://gitee.com/playmcbkuwu/chinagpt/issues">Gitee 中本项目 ISSUES</a> 或 QQ:2129767149 联系我，我将尽快处理
 ## 贡献者们
 
 > 感谢所有让这个项目变得更好的贡献者们！请动动您那发财的小手，点一下`Star`吧！
