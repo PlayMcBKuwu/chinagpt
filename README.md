@@ -52,9 +52,9 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
   </summary>
 
   ![alt Screenshot1](https://raw.githubusercontent.com/PlayMcBKuwu/chinagpt/main/ChinaGPT1.png)
-  ![alt Screenshot2](https://raw.githubusercontent.com/PlayMcBKuwu/chinagpt/main/ChinaGPT2.png)
-  ![alt Screenshot3](https://raw.githubusercontent.com/PlayMcBKuwu/chinagpt/main/ChinaGPT3.png)
-  ![alt Screenshot4](https://raw.githubusercontent.com/PlayMcBKuwu/chinagpt/main/ChinaGPT4.png)
+  ![alt Screenshot2](https://raw.githubusercontent.com/PlayMcBKuwu/chinagpt/main/ChinaGPT3.png)
+  ![alt Screenshot3](https://raw.githubusercontent.com/PlayMcBKuwu/chinagpt/main/ChinaGPT4.png)
+  ![alt Screenshot4](https://raw.githubusercontent.com/PlayMcBKuwu/chinagpt/main/ChinaGPT2.png)
   </details>
 
 ## 其他说明
