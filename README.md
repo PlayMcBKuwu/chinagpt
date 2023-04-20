@@ -17,7 +17,7 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 
   <h3 align="center">ChinaGPT</h3>
   <p align="center">
-    在中国大陆也能用的 GPT"
+    在中国大陆也能用的 GPT
     <br />
     <a href="https://space.bilibili.com/3493132438079618"><strong>Bilibili 派蒙 GPT »</strong></a>
     .
