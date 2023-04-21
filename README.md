@@ -54,12 +54,18 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 
 * 本栏目中部分站点`可以用 OpenAI 账户/OpenAI API Key/OpenAI Access Token`登录。
 
+# 推荐站点
+
 1.  <a href="https://github.com/pengzhile">pengzhile</a> 大佬的 <a href="https://github.com/pengzhile/pandora">Pandora</a>（对话主题公开、共享）： https://chat-shared.zhile.io/shared.html  
 （若需要`使用 OpenAI Access Token`登录的 <a href="https://github.com/pengzhile/pandora">Pandora</a>，请前往：https://chat.zhile.io ）
   
 2.  `可使用 OpenAI API Key 登录`<a href="https://space.bilibili.com/504821026">学方言的NoobNoob</a> 搭建的 GPT Chinese（只能有一个对话主题）：https://chat.gptchinese.info
   
 3.  <a href="https://extkj.cn">Ext 游戏攻略网</a>搭建的镜像站（部分情况下会有来自 Google 的广告）：https://chat.extkj.cn/
+  
+4.  ChatGPT 猎空公益专用版：https://chat.lkong.org/
+  
+# 其他无需登陆站点
   
 4.  **（被严重受限|十分不推荐|支持 GPT-4）** TDChat 土豆 Chat：http://www.tdchata.us/  
 （请注意，此站点支持`GPT-3.0、GPT-3.5、GPT-4.0 与 AI 绘画`，但是**免费版中** `GPT-3.0` 无法正常回答，`GPT-3.5` 被限制回答字数，**解除限制无效** ，`GPT-4.0 不支持免费体验`）  
@@ -72,8 +78,6 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 7.  ChatGPT 中国站（免费版有**Token限制**|`GPT-3`）：https://chatgpt-cn.co/
   
 8.  快搜（含自研语言模型|支持`GPT-3`与`GPT-3.5`|**加载速度较慢**）：https://www.kuaisou.com/
-  
-9.  ChatGPT 猎空公益专用版：https://chat.lkong.org/
 
 ## 需登录站点链接
 
