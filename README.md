@@ -65,7 +65,8 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 7.  ChatGPT 中国站（免费版有**Token限制**|`GPT-3`）：https://chatgpt-cn.co/
   
 8.  快搜（含自研语言模型|支持`GPT-3`与`GPT-3.5`|**加载速度较慢**）：https://www.kuaisou.com/
-
+  
+9.  ChatGPT 猎空公益专用版：https://chat.lkong.org/
 
 ## 需登录站点链接
 
