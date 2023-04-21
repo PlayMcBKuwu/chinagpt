@@ -56,11 +56,12 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 * 本处将区分登录`OpenAI 账户`与`站点账户`。
 * 本栏`只收录必须登录`的站点。
 
-1.  `需登录站点账户|不支持 OpenAI 账户`未知搭建者搭建的 GPT 中文站：https://chat.uniation.net
+1.  `需登录站点账户|不支持 OpenAI 账户`未知搭建者搭建的 GPT 中文站：https://chat.uniation.net  
+（据悉，此站点**可能需要收费**）
 
 ## 为什么要用
 
-1. ChinaGPT 将尽可能地收集无广告、响应速度快的 GPT 镜像站点。
+1. ChinaGPT 将`尽可能`地收集无广告、响应速度快且免费的 GPT 镜像站点。
 2. 收集的站点`大多数`将可以用 API Key、Access Token 和 OpenAI 账号等方式登录且无需在境外
 3. 除去登录，ChinaGPT 收集的站点将确保`多数`可以无账号使用。
 
