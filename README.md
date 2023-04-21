@@ -31,17 +31,24 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 
 ## 目录
 
+- [ChinaGPT 项目简介](#ChinaGPT 项目简介)
 - [无需登录站点链接](#无需登录站点链接)
 - [需登录站点链接](#需登录站点链接)
 - [为什么要用](#为什么要用)
 - [界面截图](#界面截图)
+
+## ChinaGPT 项目简介
+
+* ChinaGPT，是新一代的丝绸之路，属于 GPT 的丝绸之路。
+* ChinaGPT 致力于让每一位中国人都能用上 GPT，实现 AI 全民化。  
+~~话说我是不是想的太多了~~
 
 ## 无需登录站点链接
 
 * 本栏目中部分站点`可以用 OpenAI 账户/OpenAI API Key/OpenAI Access Token`登录。
 
 1.  <a href="https://github.com/pengzhile">pengzhile</a> 大佬的 <a href="https://github.com/pengzhile/pandora">Pandora</a>（对话主题公开、共享）： https://chat-shared.zhile.io/shared.html  
-（若需要`使用 OpenAI Access Token`登录的 <a href="https://github.com/pengzhile/pandora">Pandora</a>，请前往：https://chat.zhile.io）
+（若需要`使用 OpenAI Access Token`登录的 <a href="https://github.com/pengzhile/pandora">Pandora</a>，请前往：https://chat.zhile.io ）
   
 2.  `可使用 OpenAI API Key 登录`<a href="https://space.bilibili.com/504821026">学方言的NoobNoob</a> 搭建的 GPT Chinese（只能有一个对话主题）：https://chat.gptchinese.info
   
