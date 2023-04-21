@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PlayMcBKuwu/chinagpt/main/ChinaGPT.png" alt="ChinaGPT" width="140" height="142" />
+  <img src="https://raw.githubusercontent.com/PlayMcBKuwu/chinagpt/main/GPT-4.png" alt="ChinaGPT" width="140" height="142" />
 
 
 # ChinaGPT Github 主站点
