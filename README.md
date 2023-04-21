@@ -67,25 +67,25 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
   
 # 其他无需登陆站点
   
-4.  **（被严重受限|十分不推荐|支持 GPT-4）** TDChat 土豆 Chat：http://www.tdchata.us/  
-（请注意，此站点支持`GPT-3.0、GPT-3.5、GPT-4.0 与 AI 绘画`，但是**免费版中** `GPT-3.0` 无法正常回答，`GPT-3.5` 被限制回答字数，**解除限制无效** ，`GPT-4.0 不支持免费体验`）  
-（若需要在此站解锁完整体验，需要购买此站特殊 `CHATKEY` ，届时将支持 `GPT-4.0` 。）
+5.  ChatGPT 在线网页版（`GPT-3.5`）：https://chatgpt.qdymys.cn/#/chat/1002
+  
+6.  ChatGPT 中国站（免费版有**Token限制**|`GPT-3`）：https://chatgpt-cn.co/
+  
+7.  快搜（含自研语言模型|支持`GPT-3`与`GPT-3.5`|**加载速度较慢**）：https://www.kuaisou.com/
   
 5.  趣学旅程镜像站（**响应速度过慢|很不推荐**）：https://www.quxuetrip.com/AITrip.html
   
-6.  ChatGPT 在线网页版（`GPT-3.5`）：https://chatgpt.qdymys.cn/#/chat/1002
+9. **（被严重受限|十分不推荐|支持 GPT-4）** TDChat 土豆 Chat：http://www.tdchata.us/  
+（请注意，此站点支持`GPT-3.0、GPT-3.5、GPT-4.0 与 AI 绘画`，但是**免费版中** `GPT-3.0` 无法正常回答，`GPT-3.5` 被限制回答字数，**解除限制无效** ，`GPT-4.0 不支持免费体验`）  
+（若需要在此站解锁完整体验，需要购买此站特殊 `CHATKEY` ，届时将支持 `GPT-4.0` 。） 
   
-7.  ChatGPT 中国站（免费版有**Token限制**|`GPT-3`）：https://chatgpt-cn.co/
-  
-8.  快搜（含自研语言模型|支持`GPT-3`与`GPT-3.5`|**加载速度较慢**）：https://www.kuaisou.com/
-
 ## 需登录站点链接
 
 * 本处将区分登录`OpenAI 账户`与`站点账户`。
 * 本栏`只收录必须登录`的站点。
 
 1.  `需登录站点账户|不支持 OpenAI 账户`未知搭建者搭建的 GPT 中文站：https://chat.uniation.net  
-（据悉，此站点**可能需要收费**）
+（据悉，此站点**可能需要付费**）
   
 2.  AILink 镜像站（免费试用有积分限制，之后需要登录`站点账户`，**可能需要付费**）：https://ai.gogsu.com/#/home/chat
 
