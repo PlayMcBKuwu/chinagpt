@@ -95,7 +95,7 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
   
 2.  AILink 镜像站（免费试用有积分限制，之后需要登录`站点账户`，**可能需要付费**）：https://ai.gogsu.com/#/home/chat
   
-3.  ChatGPT Next Web（使用 `OpenAI API Key` 登录|**自定义性高**）：https://chat-gpt-next-web.vercel.app/#/settings
+3.  Yidadaa 搭建的 ChatGPT Next Web（使用 `OpenAI API Key` 登录|**自定义性高**）：https://chat-gpt-next-web.vercel.app/#/settings
   
 ## 其余特殊站点链接
 
