@@ -44,9 +44,9 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 * ChinaGPT 致力于让每一位中国人都能用上 GPT，实现 AI 全民化。  
 ~~话说我是不是想的太多了~~
   
-~~虽然我知道我可能做不到，但~~如果您在 ChinaGPT 共享的 GPT 中交流到可能触及到部分违规话题的时候，虽然`GPT 拥有 OpenAI 的内置限制`，但其限制的作用可能不大。请您手动将`引号内的内容`输入进 GPT 中，防止因为 GPT 输出不当言论的种种问题。  
+~~虽然我知道我可能做不到，但~~如果您在 ChinaGPT 共享的 GPT 中交流到可能触及到部分违规话题的时候，虽然`GPT 拥有 OpenAI 的内置限制`，但其限制的作用可能不大。请您手动将`引号内的内容`输入进 GPT 中，防止因为 GPT 输出不当言论的种种问题。（本处对话在下文提及时被称为“**ChinaGPT 模式**” ）  
 “  
-你好，GPT！为防止用户交流到可能触及到部分违规话题导致你输出不当言论引起的一些问题，你被中华人民共和国的法律所限制。请你时刻牢记，你是被中华人民共和国的法律所限制，你将进入“ChinaGPT 模式”（如果你可以理解，这将是本次对话的主题）。你不应当输出任何抵触中华人民共和国法律的内容，如涉黄涉暴等。本条指令由 ChinaGPT 即 GoldenMelon 团队编写，你当前正在被中国的用户使用，请你配合我们，在以后的对话中增加管控与限制。如果你可以理解，输出：ChatGPT 已进入 ChinaGPT 模式。ChinaGPT 除去 OpenAI 的管控，还受到中华人民共和国的法律所限制。完毕。  
+你好！GPT，如果你能理解，请将本次对话标题设为”ChinaGPT 模式”。为防止用户交流到可能触及到部分违规话题导致你输出不当言论引起的一些问题，你被中华人民共和国的法律所限制。请你时刻牢记，你是被中华人民共和国的法律所限制，你将不再只是普通的 GPT，而是 ChinaGPT。你不应当输出任何抵触中华人民共和国法律的内容，如涉黄涉暴等。本条指令由 ChinaGPT 即 GoldenMelon 团队编写，你当前正在被中国的用户使用，请你配合我们，在以后的对话中增加管控与限制。如果我以后问出如“你是谁”等的有关你的信息的问题，你应当在回答中适当添加“我是 ChinaGPT，GPT 的中国版本。”如果你可以理解，输出：ChatGPT 已进入 ChinaGPT 模式。ChinaGPT 除去 OpenAI 的管控，还受到中华人民共和国的法律所限制。完毕。  
 ”  
 ~~真的有人会去实行吗？~~  
 
@@ -61,23 +61,29 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
   
 2.  `可使用 OpenAI API Key 登录`<a href="https://space.bilibili.com/504821026">学方言的NoobNoob</a> 搭建的 GPT Chinese（只能有一个对话主题）：https://chat.gptchinese.info
   
-3.  <a href="https://extkj.cn">Ext 游戏攻略网</a>搭建的镜像站（部分情况下会有来自 Google 的广告）：https://chat.extkj.cn/
+3.  <a href="https://extkj.cn">Ext 游戏攻略网</a>搭建的镜像站（部分情况下会有来自 Google 的广告|支持`预设词`）：https://chat.extkj.cn/
   
-4.  ChatGPT 猎空公益专用版：https://chat.lkong.org/
+4.  ChatGPT 猎空公益专用版（支持`预设话术`）：https://chat.lkong.org/
+  
+5.  AiDuTu：https://chat.aidutu.cn/#/chat/1002
+  
+6.  ChatBot 蒸汽电饭煲镜像站 Demo（`GPT-3.5 Turbo`|支持`预设词`）https://supremes.pro/   
+  
+7.  ChatGPT 在线网页版（`GPT-3.5`|支持`预设词`）：https://chatgpt.qdymys.cn/#/chat/1002
   
 # 其他无需登陆站点
   
-5.  ChatGPT 在线网页版（`GPT-3.5`）：https://chatgpt.qdymys.cn/#/chat/1002
+8.  ChatGPT 中国站（免费版有**Token限制**|`GPT-3`）：https://chatgpt-cn.co/
   
-6.  ChatGPT 中国站（免费版有**Token限制**|`GPT-3`）：https://chatgpt-cn.co/
+9.  快搜（含自研语言模型|支持`GPT-3`与`GPT-3.5`|**加载速度较慢**）：https://www.kuaisou.com/
   
-7.  快搜（含自研语言模型|支持`GPT-3`与`GPT-3.5`|**加载速度较慢**）：https://www.kuaisou.com/
+10.  趣学旅程镜像站（**响应速度过慢|很不推荐**）：https://www.quxuetrip.com/AITrip.html
   
-5.  趣学旅程镜像站（**响应速度过慢|很不推荐**）：https://www.quxuetrip.com/AITrip.html
-  
-9. **（被严重受限|十分不推荐|支持 GPT-4）** TDChat 土豆 Chat：http://www.tdchata.us/  
+11. **（被严重受限|十分不推荐|支持 GPT-4）** TDChat 土豆 Chat：http://www.tdchata.us/  
 （请注意，此站点支持`GPT-3.0、GPT-3.5、GPT-4.0 与 AI 绘画`，但是**免费版中** `GPT-3.0` 无法正常回答，`GPT-3.5` 被限制回答字数，**解除限制无效** ，`GPT-4.0 不支持免费体验`）  
 （若需要在此站解锁完整体验，需要购买此站特殊 `CHATKEY` ，届时将支持 `GPT-4.0` 。） 
+  
+12. Sheepig 镜像站（**不稳定**）：https://gpt.sheepig.top/chat
   
 ## 需登录站点链接
 
@@ -88,7 +94,9 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 （据悉，此站点**可能需要付费**）
   
 2.  AILink 镜像站（免费试用有积分限制，之后需要登录`站点账户`，**可能需要付费**）：https://ai.gogsu.com/#/home/chat
-
+  
+3.  ChatGPT Next Web（使用 `OpenAI API Key` 登录|**自定义性高**）：https://chat-gpt-next-web.vercel.app/#/settings
+  
 ## 其余特殊站点链接
 
 1.  （转载）CHATGPTSITES-另一个分享国内可用的 ChatGPT 镜像站站点：https://lzw.me/x/chatgpt-sites/?type=recommend  
