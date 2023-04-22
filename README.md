@@ -29,6 +29,14 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 
 </p>
 
+## ChinaGPT 资讯
+
+* （2023/04/22 更新）  
+  
+* ChinaGPT 已搭建镜像站，但由于没有 `API Key`，只能使用 `Access Token`；且我们没有公网 IP，内网映射也十分卡顿（这就是为什么 ChinaGPT 在 Github 托管）；且因为 ChinaGPT 需要**长期合法在中国大陆运营**，需要`做出一些特殊限制`，但目前我们找到的服务端貌似无法增加预设词。  
+  
+* 如果有考虑赞助 ChinaGPT，可以添加 QQ：2129767149 方便我们使用 `API Key` 搭建镜像站，您将被标注在特别鸣谢中。  
+  
 ## 目录
 
 - [项目简介](#项目简介)
@@ -37,6 +45,10 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 - [其余特殊站点链接](#其余特殊站点链接)
 - [为什么要用](#为什么要用)
 - [界面截图](#界面截图)
+- [特别鸣谢](#特别鸣谢)
+- [其他说明](#其他说明)
+- [Star者们](#Star者们)
+- [Star历史](#Star历史)
 
 ## 项目简介
 
@@ -122,6 +134,9 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
   ![alt Screenshot4](https://raw.githubusercontent.com/PlayMcBKuwu/chinagpt/main/ChinaGPT2.png)
   </details>
 
+## 特别鸣谢
+* 金瓜 Studio 全体团队人员（参与测试 ChinaGPT 镜像站）  
+  
 ## 其他说明
 
 * 请支持正版（~~读书人的事，能叫盗版么？~~），如果您不在中国（包含香港、澳门、台湾）等 OpenAI 受限区域，请前往 <a href="https://chat.openai.com">美国 OpenAI ChatGPT 官方网址</a>
@@ -131,9 +146,9 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 * 喜欢的可以点一下`Star`，感谢各位的支持！
 * 若本处链接有侵权等问题，请在 <a href="https://github.com/PlayMcBKuwu/chinagpt/issues">本项目 ISSUES</a> 或 QQ:2129767149 联系我，我将尽快处理
 
-## 贡献者们
+## Star者们
 
-> 感谢所有让这个项目变得更好的贡献者们！请动动您那发财的小手，点一下`Star`吧！
+> 感谢所有让这个项目变得更好的 Star 者们！请动动您那发财的小手，也点一下那小小的`Star`吧！
 
 <a href="https://github.com/PlayMcBKuwu/chinagpt/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=PlayMcBKuwu/chinagpt" />
