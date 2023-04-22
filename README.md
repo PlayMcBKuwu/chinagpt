@@ -83,7 +83,9 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 （请注意，此站点支持`GPT-3.0、GPT-3.5、GPT-4.0 与 AI 绘画`，但是**免费版中** `GPT-3.0` 无法正常回答，`GPT-3.5` 被限制回答字数，**解除限制无效** ，`GPT-4.0 不支持免费体验`）  
 （若需要在此站解锁完整体验，需要购买此站特殊 `CHATKEY` ，届时将支持 `GPT-4.0` 。） 
   
-12. Sheepig 镜像站（**不稳定**）：https://gpt.sheepig.top/chat
+12. `每日免费试用 3 次后需输入 API Key`FastGPT 镜像站（多模型）：https://fastgpt.app/
+  
+13. Sheepig 镜像站（**不稳定**）：https://gpt.sheepig.top/chat
   
 ## 需登录站点链接
 
