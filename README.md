@@ -47,7 +47,7 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 - [界面截图](#界面截图)
 - [特别鸣谢](#特别鸣谢)
 - [其他说明](#其他说明)
-- [Star者们](#Star者们)
+- [贡献者们](#贡献者们)
 - [Star历史](#Star历史)
 
 ## 项目简介
@@ -148,9 +148,9 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 * 喜欢的可以点一下`Star`，感谢各位的支持！
 * 若本处链接有侵权等问题，请在 <a href="https://github.com/PlayMcBKuwu/chinagpt/issues">本项目 ISSUES</a> 或 QQ:2129767149 联系我，我将尽快处理
 
-## Star者们
+## 贡献者们
 
-> 感谢所有让这个项目变得更好的 Star 者们！请动动您那发财的小手，也点一下那小小的`Star`吧！
+> 感谢所有让这个项目变得更好的贡献者们！请动动您那发财的小手，也点一下那小小的`Star`吧！
 
 <a href="https://github.com/PlayMcBKuwu/chinagpt/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=PlayMcBKuwu/chinagpt" />
