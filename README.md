@@ -85,6 +85,8 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
   
 7.  ChatGPT 在线网页版（`GPT-3.5`|支持`预设词`）：https://chatgpt.qdymys.cn/#/chat/1002
   
+8.  虾米 Chat（支持`预设词`）：https://chat.xiami.monster/#/chat/1002
+  
 # 其他无需登陆站点
   
 8.  ChatGPT 中国站（免费版有**Token限制**|`GPT-3`）：https://chatgpt-cn.co/
