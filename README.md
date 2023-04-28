@@ -31,9 +31,11 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 
 ## ChinaGPT 资讯
 
-* （2023/04/25 更新）  
+* （2023/04/28 更新）  
   
-* ChinaGPT 已搭建镜像站，但由于没有 `API Key`，只能使用 `Access Token`；且我们没有公网 IP，内网映射也十分卡顿（这就是为什么 ChinaGPT 在 Github 托管）；且因为 ChinaGPT 需要**长期合法在中国大陆运营**，需要`做出一些特殊限制`，但目前我们找到的服务端貌似无法增加预设词。  
+* ChinaGPT 已搭建镜像站，目前使用 <a href="https://github.com/pengzhile/pandora">Pandora</a> Cloud 版本试运行。目前需要使用`OpenAI 账号 或 Access Token 登录`。
+* 网址（协议必须为 `HTTP` ）：http://playmcbk.mihayou.xyz/
+* 访问可能较为卡顿（因为服务器在中国大陆，节点在香港，有好心人提供好点的内网穿透或者愿意托管站点或是提供账户的请联系 QQ:2129767149）
   
 * 如果有考虑赞助 ChinaGPT，可以添加 QQ：2129767149 方便我们使用 `API Key` 搭建镜像站，您将被标注在特别鸣谢中。  
   
