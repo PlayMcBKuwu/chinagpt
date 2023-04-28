@@ -13,6 +13,6 @@
 2.  https://mail.cx/  
 ## 虚拟专用网络环境  
 * 部分网址可能因为运营商原因无法访问。若无法访问，请从 https://guge.tk 暂时中转访问。
-1.  GreenHub `无需注册|无限流量|不限速|仅 Windows 与 macOS`：https://greenhubtx.ga/#  
-2.  Jego `需要注册| 15 天试用期|无限流量|基本不限速|仅 Chromium 内核浏览器`：https://jegocloud.com/static/app/JegoCloudV1.2.2.zh_cn.zip  
-3.  PrivadoVPN  `需要注册| 30 天试用期| 10 GB 流量|理论不限速|部分免费节点可能无法连接`：https://www.privadovpn.com/software/
+1.  GreenHub `无需注册|无限流量|不限速|仅 Windows 与 macOS` ：https://greenhubtx.ga/#  
+2.  Jego `需要注册| 15 天试用期|无限流量|基本不限速|仅 可安装 CRX 插件的 Chromium 内核浏览器` ：https://jegocloud.com/static/app/JegoCloudV1.2.2.zh_cn.zip  
+3.  PrivadoVPN  `需要注册| 30 天试用期| 10 GB 流量|理论不限速|部分免费节点可能无法连接` ：https://www.privadovpn.com/software/
