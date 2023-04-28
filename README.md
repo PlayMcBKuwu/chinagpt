@@ -4,7 +4,7 @@
 
 # ChinaGPT Github 主站点
 
-ChatGPT?ChinaGPT！
+ChatGPT?ChinaGPT！（仅简体中文）
 
 ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 
@@ -148,8 +148,8 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 * 项目是站在其他巨人的肩膀上，感谢各位 GPT 镜像站的搭建者！
 * 如果站点错误，请提出`Issue`，我会修复。
 * 喜欢的可以点一下`Star`，感谢各位的支持！
-* 若本处链接有侵权等问题，请在 <a href="https://github.com/PlayMcBKuwu/chinagpt/issues">本项目 ISSUES</a> 或 QQ:2129767149 联系我，我将尽快处理
-
+* 若本处链接有侵权等问题，请在 <a href="https://github.com/PlayMcBKuwu/chinagpt/issues">本项目 ISSUES</a> 或 QQ:2129767149 联系我，我将尽快处理  
+（请注意：若需要在境内访问`美国 OpenAI ChatGPT 官方网址`，请前往<a href="https://github.com/PlayMcBKuwu/chinagpt/blob/main/VPN.md">本教程</a>）
 ## 贡献者们
 
 > 感谢所有让这个项目变得更好的贡献者们！请动动您那发财的小手，也点一下那小小的`Star`吧！
