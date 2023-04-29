@@ -33,6 +33,7 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 
 * （2023/04/29 更新）  
 * ChinaGPT 镜像站先行版 （目前暂需使用 `OpenAI 账户` 或 `Access Token` 登录）：https://playmcbk.mihayou.xyz/  
+* 请优先使用 `Access Token` 登录，直接使用 `OpenAI 账户邮箱` 登录可能会遇到无法登录的状况（如：File not found），目前 <a href="https://github.com/pengzhile">pengzhile 大佬</a> 的反向代理服务器无法直接使用 `OpenAI 账户邮箱` 登录。
 * ChinaGPT 使用 <a href="https://github.com/pengzhile">pengzhile</a> 的 <a href="https://github.com/pengzhile/pandora">Pandora</a> 搭建，故可做到如 Plus 一般的响应速度，比 美国 OpenAI ChatGPT 官方网站 拥有更强的能力。（订阅了 Plus 的账户在 ChinaGPT 登录后可以使用 `GPT-4`，使用标准依旧是 `3 小时内限制回答 25 次`）
 * 若遇到无法复制代码框中的内容时，确认协议为 `HTTPS`。  
 * 如果有考虑赞助 ChinaGPT，可以添加 QQ：2129767149 方便我们搭建更好的镜像站，您将被标注在特别鸣谢中。  
