@@ -120,6 +120,8 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 1.  （转载）CHATGPTSITES-另一个分享国内可用的 ChatGPT 镜像站站点：https://lzw.me/x/chatgpt-sites/?type=recommend  
   
 2.  （转载）Liyanan666 在 Github 分享的镜像站大全：https://github.com/liyanan666/chatgpt-web
+  
+3.  （转载）镜像站站点：https://ai-pig-fly.space/home
 
 ## 为什么要用
 
