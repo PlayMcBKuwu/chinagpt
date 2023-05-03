@@ -32,7 +32,7 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 ## ChinaGPT 资讯
 
 * （2023/04/29 更新）  
-* ChinaGPT 镜像站先行版 （目前暂需使用 `OpenAI 账户` 或 `Access Token` 登录）：https://playmcbk.mihayou.xyz/  
+* ChinaGPT 镜像站先行版 （目前暂需使用 `OpenAI 账户` 或 `Access Token` 登录|`不稳定`|`不常开`）：https://playmcbk.mihayou.xyz/  
 * 请优先使用 `Access Token` 登录，直接使用 `OpenAI 账户邮箱` 登录可能会遇到无法登录的状况（如：File not found），目前 <a href="https://github.com/pengzhile">pengzhile 大佬</a> 的反向代理服务器无法直接使用 `OpenAI 账户邮箱` 登录。
 * ChinaGPT 使用 <a href="https://github.com/pengzhile">pengzhile</a> 的 <a href="https://github.com/pengzhile/pandora">Pandora</a> 搭建，故可做到如 Plus 一般的响应速度，比 美国 OpenAI ChatGPT 官方网站 拥有更强的能力。（订阅了 Plus 的账户在 ChinaGPT 登录后可以使用 `GPT-4`，使用标准依旧是 `3 小时内限制回答 25 次`）
 * 若遇到无法复制代码框中的内容时，确认协议为 `HTTPS`。  
@@ -83,11 +83,9 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
   
 5.  AiDuTu：https://chat.aidutu.cn/#/chat/1002
   
-6.  ChatBot 蒸汽电饭煲镜像站 Demo（`GPT-3.5 Turbo`|支持`预设词`）https://supremes.pro/   
+6.  ChatGPT 在线网页版（`GPT-3.5`|支持`预设词`）：https://chatgpt.qdymys.cn/#/chat/1002
   
-7.  ChatGPT 在线网页版（`GPT-3.5`|支持`预设词`）：https://chatgpt.qdymys.cn/#/chat/1002
-  
-8.  虾米 Chat（支持`预设词`）：https://chat.xiami.monster/#/chat/1002
+7.  虾米 Chat（支持`预设词`）：https://chat.xiami.monster/#/chat/1002
   
 # 其他无需登陆站点
   
@@ -97,9 +95,9 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
   
 10.  趣学旅程镜像站（**响应速度过慢|很不推荐**）：https://www.quxuetrip.com/AITrip.html
   
-11. **（被严重受限|十分不推荐|支持 GPT-4）** TDChat 土豆 Chat：http://www.tdchata.us/  
+11. `站点暂时失效`~~**（被严重受限|十分不推荐|支持 GPT-4）** TDChat 土豆 Chat：http://www.tdchata.us/  
 （请注意，此站点支持`GPT-3.0、GPT-3.5、GPT-4.0 与 AI 绘画`，但是**免费版中** `GPT-3.0` 无法正常回答，`GPT-3.5` 被限制回答字数，**解除限制无效** ，`GPT-4.0 不支持免费体验`）  
-（若需要在此站解锁完整体验，需要购买此站特殊 `CHATKEY` ，届时将支持 `GPT-4.0` 。） 
+（若需要在此站解锁完整体验，需要购买此站特殊 `CHATKEY` ，届时将支持 `GPT-4.0` 。） ~~
   
 12. `每日免费试用 3 次后需输入 API Key`FastGPT 镜像站（多模型）：https://fastgpt.app/
   
