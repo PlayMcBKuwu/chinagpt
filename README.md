@@ -19,9 +19,11 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
   <p align="center">
     在中国大陆也能用的 GPT
     <br />
-    <a href="https://space.bilibili.com/3493132438079618"><strong>Bilibili 派蒙 GPT »</strong></a>
+    <a href="https://space.bilibili.com/3493132438079618"><strong>Bilibili 金瓜 Studio »</strong></a>
     .
     <a href="https://space.bilibili.com/438071827"><strong>Bilibili 一只很普通の金瓜 »</strong></a>
+    .
+    <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=DqMIt-Icw5BHti4Cjdruz7ODQ4fYcadC&authKey=Xt4ujV6%2Be%2F8DgInuaKTr1FtCALEDQc5KLTEKWuf37QrweO%2FDT%2B%2Bty4zpD0iG0XTs&noverify=0&group_code=638289071"><strong>QQ ChinaGPT 交流①群 »</strong></a>
     <br />
     <br />
     <a href="https://github.com/PlayMcBKuwu/chinagpt/issues">在 ISSUES 报告问题</a>
