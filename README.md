@@ -33,8 +33,8 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 
 ## ChinaGPT 资讯
 
-* （2023/05/03 更新）  
-* ChinaGPT 镜像站需登陆版 （使用 `OpenAI 账户` 或 `Access Token` 登录）：https://playmcbk.mihayou.xyz/  
+* （2023/05/06 更新）  
+* ChinaGPT 镜像站需登陆版 （`不常开启`|`目前极为不稳定`|使用 `OpenAI 账户` 或 `Access Token` 登录）：https://playmcbk.mihayou.xyz/  
 * 请优先使用 `Access Token` 登录，直接使用 `OpenAI 账户邮箱` 登录可能会遇到无法登录的状况（如：File not found），目前 <a href="https://github.com/pengzhile">pengzhile 大佬</a> 的反向代理服务器无法直接使用 `OpenAI 账户邮箱` 登录。
 * 登陆版如果登录了`订阅 Plus` 的账户时，可以使用 `GPT-4`。速率限制同官方版：`3 小时 25 次`
 * 若遇到无法复制代码框中的内容时，确认协议为 `HTTPS`。  
