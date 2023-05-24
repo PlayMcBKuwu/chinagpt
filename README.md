@@ -35,7 +35,7 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 
 * （2023/05/19 更新）  
 * 如果有考虑赞助 ChinaGPT，可以添加 QQ：2129767149 / 813716692 方便我们搭建更好的镜像站，您将被标注在特别鸣谢中。  
-* 如果需要免费 ChatGPT 账户或者 API Key，前往：https://freeopenai.xyz/  
+* 如果需要免费 ChatGPT API Key，前往：https://fx.fxchatai.xyz/
   
 ## 目录
 
@@ -84,6 +84,8 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 6.  ChatGPT 在线网页版（`GPT-3.5`|支持`预设词`）：https://chatgpt.qdymys.cn/#/chat/1002
   
 7.  虾米 Chat（支持`预设词`）：https://chat.xiami.monster/#/chat/1002
+  或
+  https://home.xiamis.xyz/
   
 8.  <a href="https://github.com/binjie09">binjie09</a> 的镜像站：https://chat3.aichatos.com/
   
