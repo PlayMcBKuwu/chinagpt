@@ -33,7 +33,7 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 
 ## ChinaGPT 资讯
 
-* （2023/05/19 更新）  
+* （2023/05/24 更新）  
 * 如果有考虑赞助 ChinaGPT，可以添加 QQ：2129767149 / 813716692 方便我们搭建更好的镜像站，您将被标注在特别鸣谢中。  
 * 如果需要免费 ChatGPT API Key，前往：https://fx.fxchatai.xyz/
   
@@ -87,15 +87,17 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
   或
   https://home.xiamis.xyz/
   
-8.  <a href="https://github.com/binjie09">binjie09</a> 的镜像站：https://chat3.aichatos.com/
+8.  <a href="https://github.com/binjie09">binjie09</a> 的镜像站：https://chat3.aichatos.com/  
+  
+9. PawanKrd:https://chat.pawan.krd/
   
 # 其他无需登陆站点
   
-9.  ChatGPT 中国站（免费版有**Token限制**|`GPT-3`）：https://chatgpt-cn.co/
+10.  ChatGPT 中国站（免费版有**Token限制**|`GPT-3`）：https://chatgpt-cn.co/
   
-10.  趣学旅程镜像站（**响应速度过慢|很不推荐**）：https://www.quxuetrip.com/AITrip.html
+11.  趣学旅程镜像站（**响应速度过慢|很不推荐**）：https://www.quxuetrip.com/AITrip.html
   
-11. **（被严重受限|十分不推荐|支持 GPT-4）** TDChat 土豆 Chat：http://www.tdchata.us/  
+12. **（被严重受限|十分不推荐|支持 GPT-4）** TDChat 土豆 Chat：http://www.tdchata.us/  
 （请注意，此站点支持`GPT-3.0、GPT-3.5、GPT-4.0 与 AI 绘画`，但是**免费版中** `GPT-3.0` 无法正常回答，`GPT-3.5` 被限制回答字数，**解除限制无效** ，`GPT-4.0 不支持免费体验`）  
 （若需要在此站解锁完整体验，需要购买此站特殊 `CHATKEY` ，届时将支持 `GPT-4.0` 。） 
   
