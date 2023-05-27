@@ -70,10 +70,10 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 
 # 推荐站点
 
-1.  <a href="https://github.com/pengzhile">pengzhile</a> 大佬的 <a href="https://github.com/pengzhile/pandora">Pandora</a>（对话主题使用私密字符串隔开）： https://chat-shared.zhile.io/shared.html  
+1.  <a href="https://github.com/pengzhile">pengzhile</a> 大佬的 <a href="https://github.com/pengzhile/pandora">Pandora</a>（对话主题使用私密字符串隔开）： https://chat-shared1.zhile.io/shared.html  
 （若需要`使用 OpenAI Access Token`登录的 <a href="https://github.com/pengzhile/pandora">Pandora</a>，请前往：https://chat.zhile.io ）
   
-2.  `可使用 OpenAI API Key 登录`<a href="https://space.bilibili.com/504821026">学方言的NoobNoob</a> 搭建的 GPT Chinese（只能有一个对话主题|较不稳定）：https://chat.gptchinese.info
+2.  `可使用 OpenAI API Key 登录`<a href="https://space.bilibili.com/504821026">学方言的NoobNoob</a> 搭建的 GPT Chinese（`公用 API Key 情况下`只能有一个对话主题）：https://chat.gptchinese.info
   
 3.  <a href="https://extkj.cn">Ext 游戏攻略网</a>搭建的镜像站（部分情况下会有来自 Google 的广告|支持`预设词`）：https://chat.extkj.cn/
   
