@@ -152,7 +152,7 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 （请注意：若需要在境内访问`美国 OpenAI ChatGPT 官方网址`，请前往<a href="https://github.com/PlayMcBKuwu/chinagpt/blob/main/VPN.md">本教程</a>）
 ## 贡献者们
 
-> 感谢所有让这个项目变得更好的贡献者们！请动动您那发财的小手，也点一下那小小的`Star`吧！
+> 感谢所有让这个项目变得更好的贡献者们！多提提 `Issues`，让我们把项目做的更好！
 
 <a href="https://github.com/PlayMcBKuwu/chinagpt/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=PlayMcBKuwu/chinagpt" />
