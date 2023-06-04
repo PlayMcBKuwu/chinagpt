@@ -83,20 +83,18 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
   
 6.  ChatGPT 在线网页版（`GPT-3.5`|支持`预设词`）：https://chatgpt.qdymys.cn/#/chat/1002
   
-7.  虾米 Chat（`GPT-3.5` | **`GPT-4`** | **DALL-E** |支持`预设词`）：https://home.xiamis.xyz/  
+7.  <a href="https://github.com/binjie09">binjie09</a> 的镜像站：https://chat3.aichatos.com/  
   
-8.  <a href="https://github.com/binjie09">binjie09</a> 的镜像站：https://chat3.aichatos.com/  
-  
-9. PawanKrd:https://chat.pawan.krd/
+8. PawanKrd:https://chat.pawan.krd/
   
 # 其他无需登陆站点
   
-10.  ChatGPT 中国站（免费版有**Token限制**|`GPT-3`）：https://chatgpt-cn.co/
+9.  ChatGPT 中国站（免费版有**Token限制**|`GPT-3`）：https://chatgpt-cn.co/
   
-11.  趣学旅程镜像站（**响应速度过慢|很不推荐**）：https://www.quxuetrip.com/AITrip.html
+10.  趣学旅程镜像站（**响应速度过慢|很不推荐**）：https://www.quxuetrip.com/AITrip.html
   
-12. **（被严重受限|十分不推荐|支持 GPT-4）** TDChat 土豆 Chat：http://www.tdchata.us/  
-（请注意，此站点支持`GPT-3.0、GPT-3.5、GPT-4.0 与 AI 绘画`，但是**免费版中** `GPT-3.0` 无法正常回答，`GPT-3.5` 被限制回答字数，**解除限制无效** ，`GPT-4.0 不支持免费体验`）  
+11. **（被严重受限|不推荐|支持 GPT-4）** TDChat 土豆 Chat：http://tdchat.vip  
+（请注意，此站点支持 `GPT-3.5、GPT-4.0 与 AI 绘画`，但是**免费版中** `GPT-3.5` 被限制回答字数，**解除限制无效** ，`GPT-4.0 不支持免费体验`）  
 （若需要在此站解锁完整体验，需要购买此站特殊 `CHATKEY` ，届时将支持 `GPT-4.0` 。） 
   
 ## 需登录站点链接
@@ -109,7 +107,9 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
   
 2.  AILink 镜像站（免费试用有积分限制，之后需要登录`站点账户`，**可能需要付费**）：https://ai.gogsu.com/#/home/chat
   
-3.  Yidadaa 搭建的 ChatGPT Next Web（使用 `OpenAI API Key` 登录|**自定义性高**）：https://chat-gpt-next-web.vercel.app/#/settings
+3.  Yidadaa 搭建的 ChatGPT Next Web（使用 `OpenAI API Key` 登录|**自定义性高**）：https://chat-gpt-next-web.vercel.app/#/settings  
+  
+4.  虾米 Chat（需要登录`站点账户`| `GPT-3.5` | **GPT-4** | **DALL-E** ）：https://home.xiamis.xyz/  
   
 ## 其余特殊站点链接
 
