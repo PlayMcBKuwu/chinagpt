@@ -83,7 +83,7 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
   
 6.  ChatGPT 在线网页版（`GPT-3.5`|支持`预设词`）：https://chatgpt.qdymys.cn/#/chat/1002
   
-7.  <a href="https://github.com/binjie09">binjie09</a> 的镜像站：https://chat3.aichatos.com/  
+7.  <a href="https://github.com/binjie09">binjie09</a> 的镜像站：https://chat.jinshutuan.com/  
   
 8. PawanKrd:https://chat.pawan.krd/
   
