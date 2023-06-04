@@ -33,9 +33,9 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 
 ## ChinaGPT 资讯
 
-* （2023/05/24 更新）  
+* （2023/06/04 更新）  
 * 如果有考虑赞助 ChinaGPT，可以添加 QQ：2129767149 / 813716692 方便我们搭建更好的镜像站，您将被标注在特别鸣谢中。  
-* 如果需要免费 ChatGPT API Key，前往：https://fx.fxchatai.xyz/
+* 如果需要免费 ChatGPT Accounts & API Key，前往：https://fx.fxchatai.xyz/
   
 ## 目录
 
@@ -70,8 +70,8 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 
 # 推荐站点
 
-1.  <a href="https://github.com/pengzhile">pengzhile</a> 大佬的 <a href="https://github.com/pengzhile/pandora">Pandora</a>（对话主题使用私密字符串隔开）： https://chat-shared1.zhile.io/shared.html  
-（若需要`使用 OpenAI Access Token`登录的 <a href="https://github.com/pengzhile/pandora">Pandora</a>，请前往：https://chat.zhile.io ）
+1.  <a href="https://github.com/pengzhile">pengzhile</a> 大佬的 <a href="https://github.com/pengzhile/pandora">Pandora</a>（对话主题使用私密字符串隔开）： https://chat-shared2.zhile.io/shared.html  
+（若需要`使用 ChatGPT Account / OpenAI Access Token`登录的 <a href="https://github.com/pengzhile/pandora">Pandora</a>，请前往：https://chat.zhile.io ）
   
 2.  `可使用 OpenAI API Key 登录`<a href="https://space.bilibili.com/504821026">学方言的NoobNoob</a> 搭建的 GPT Chinese（`公用 API Key 情况下`只能有一个对话主题）：https://chat.gptchinese.info
   
@@ -83,9 +83,7 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
   
 6.  ChatGPT 在线网页版（`GPT-3.5`|支持`预设词`）：https://chatgpt.qdymys.cn/#/chat/1002
   
-7.  虾米 Chat（支持`预设词`）：https://chat.xiami.monster/#/chat/1002
-  或
-  https://home.xiamis.xyz/
+7.  虾米 Chat（`GPT-3.5` | **`GPT-4`** | **DALL-E** |支持`预设词`）：https://home.xiamis.xyz/  
   
 8.  <a href="https://github.com/binjie09">binjie09</a> 的镜像站：https://chat3.aichatos.com/  
   
