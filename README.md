@@ -11,7 +11,7 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 <!-- PROJECT SHIELDS -->
 
 [![Issues](https://img.shields.io/github/issues-raw/PlayMcBKuwu/chinagpt)](https://github.com/PlayMcBKuwu/chinagpt\issues)
-[![Commits](https://img.shields.io/github/last-commit/PlayMcBKuwu/chinagpt/master)](https://github.com/PlayMcBKuwu/chinagpt/commits/master)
+[![Commits](https://img.shields.io/github/last-commit/PlayMcBKuwu/chinagpt/main)](https://github.com/PlayMcBKuwu/chinagpt/commits/main)
 
 <p align="center">
 
