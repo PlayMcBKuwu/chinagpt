@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PlayMcBKuwu/chinagpt/main/GPT-4.png" alt="ChinaGPT" width="140" height="142" />  
+  <img src="https://ghproxy.com/https://raw.githubusercontent.com/PlayMcBKuwu/chinagpt/main/GPT-4.png" alt="ChinaGPT" width="140" height="142" />  
   
 # VPN（虚拟专用网络环境）  
 ## 免责声明 & 部分说明  
