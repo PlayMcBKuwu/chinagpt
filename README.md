@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PlayMcBKuwu/chinagpt/main/GPT-4.png" alt="ChinaGPT" width="140" height="142" />
+  <img src="https://ghproxy.com/https://raw.githubusercontent.com/PlayMcBKuwu/chinagpt/main/GPT-4.png" alt="ChinaGPT" width="140" height="142" />
 
 
 # ChinaGPT Github 主站点
@@ -126,14 +126,14 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 3. 除去登录，ChinaGPT 收集的站点将确保`多数`可以无账号使用。
 
 ## 界面截图
-
+- (Outdated)
   <details>
   </summary>
 
-  ![alt Screenshot1](https://raw.githubusercontent.com/PlayMcBKuwu/chinagpt/main/ChinaGPT1.png)
-  ![alt Screenshot2](https://raw.githubusercontent.com/PlayMcBKuwu/chinagpt/main/ChinaGPT3.png)
-  ![alt Screenshot3](https://raw.githubusercontent.com/PlayMcBKuwu/chinagpt/main/ChinaGPT4.png)
-  ![alt Screenshot4](https://raw.githubusercontent.com/PlayMcBKuwu/chinagpt/main/ChinaGPT2.png)
+  ![alt Screenshot1](https://ghproxy.com/https://raw.githubusercontent.com/PlayMcBKuwu/chinagpt/main/ChinaGPT1.png)
+  ![alt Screenshot2](https://ghproxy.com/https://raw.githubusercontent.com/PlayMcBKuwu/chinagpt/main/ChinaGPT3.png)
+  ![alt Screenshot3](https://ghproxy.com/https://raw.githubusercontent.com/PlayMcBKuwu/chinagpt/main/ChinaGPT4.png)
+  ![alt Screenshot4](https://ghproxy.com/https://raw.githubusercontent.com/PlayMcBKuwu/chinagpt/main/ChinaGPT2.png)
   </details>
 
 ## 特别鸣谢
