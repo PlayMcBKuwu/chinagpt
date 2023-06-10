@@ -32,7 +32,7 @@
 3.  Shadowrocket for Windows `v2ray 客户端|6 小时自动更新的免费节点|不限速|无限流量|需要验证码`：https://github.com/Pawdroid/shadowrocket_for_windows/releases
 - Shadowrocket for Windows 节点更新验证码获取地址 `已经过国内镜像`：https://guge.tk/-----https://v2cross.com/archives/3638  
 4.  VPNHelper 谷歌上网助手 `仅 Android`：https://github.com/Pawdroid/VPNHelper/releases  
-5.  4.  Jego `需要注册|仅 ChatGPT & New Bing|无限流量|基本不限速|仅 可安装 CRX 插件的 Chromium 88 + 内核浏览器` ：https://jegocloud.com/  
+5.  Jego `需要注册|仅 ChatGPT & New Bing|无限流量|基本不限速|仅 可安装 CRX 插件的 Chromium 88 + 内核浏览器` ：https://jegocloud.com/  
   
 ## 其余虚拟专用网络环境
 1.  GreenHub `无需注册|仅 Windows 与 macOS|限 60MINS/DAY` ：https://greenhubtx.ga/#  
