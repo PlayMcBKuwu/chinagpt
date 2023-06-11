@@ -33,8 +33,10 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 
 ## ChinaGPT 资讯
 
-* （2023/06/04 更新）  
+* （2023/06/11 更新）  
 * 如果有考虑赞助 ChinaGPT，可以添加 QQ：2129767149 / 813716692 方便我们搭建更好的镜像站，您将被标注在特别鸣谢中。  
+* 如果拥有 ChatGPT Accounts，可以前往：https://ai.fakeopen.com/auth 获取 OpenAI Access Token。  
+* 如果拥有 OpenAI Access Token，可以前往：https://ai.fakeopen.com/token 获取更为稳定的固定 Zhile FK Key。（仍需要每 14 天前往更新 OpenAI Access Token，但是 Zhile FK Key 不会更换）  
 * 如果需要免费 ChatGPT Accounts & API Key，前往：https://fx.fxchatai.xyz/
   
 ## 目录
@@ -71,7 +73,7 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 # 推荐站点
 
 1.  <a href="https://github.com/pengzhile">pengzhile</a> 大佬的 <a href="https://github.com/pengzhile/pandora">Pandora</a>（对话主题使用私密字符串隔开）： https://chat-shared2.zhile.io/shared.html  
-（若需要`使用 ChatGPT Account / OpenAI Access Token`登录的 <a href="https://github.com/pengzhile/pandora">Pandora</a>，请前往：https://chat.zhile.io ）
+（若需要`使用 ChatGPT Account / OpenAI Access Token / Zhile FK Key`登录的 <a href="https://github.com/pengzhile/pandora">Pandora</a>，请前往：https://chat.zhile.io ）
   
 2.  `可使用 OpenAI API Key 登录`<a href="https://space.bilibili.com/504821026">学方言的NoobNoob</a> 搭建的 GPT Chinese（`公用 API Key 情况下`只能有一个对话主题）：https://chat.gptchinese.info
   
