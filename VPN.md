@@ -14,7 +14,8 @@
 1.  https://www.linshi-email.com/  
 2.  https://mail.cx/  
   
-## 免费节点获取
+## 免费节点获取  
+- **[ 自建 | 推荐 ] 免费的高速 v2ray 节点！ https://www.goldmelon.jp.eu.org/v2ray
 - ShadowShare：免费的 v2ray/ShadowSocks 节点 `仅 Android & iOS`：https://shadowsharing.com/  
 - FreeServers：免费的 v2ray 节点：https://github.com/Pawdroid/Free-servers  
 - ClashNode：每日更新的免费的 Clash+v2ray 订阅：https://clashnode.com/
