@@ -34,7 +34,7 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 ## ChinaGPT 资讯
 
 * （2023/06/23 更新）
-* **[Beta] ChinaGPT 官方镜像站来了！https://pandora.playmcbkuwu.repl.co/**
+* **[Preview] ChinaGPT 官方镜像站来了！https://chat.goldmelon.jp.eu.org**
 * **如果有考虑赞助 ChinaGPT，可以添加 QQ：2129767149 / 813716692 方便我们搭建更好的镜像站，您将被标注在特别鸣谢中。**
 * **ChinaGPT 现在急需 ChatGPT Plus 账户，有好心人赞助的话那将万分感谢！[ありがとうございます！](https://fanyi.baidu.com/#zh/jp/%E4%B8%87%E5%88%86%E6%84%9F%E8%B0%A2%EF%BC%81)**
 #  
