@@ -27,7 +27,7 @@
 3.  v2rayW：https://github.com/Cenmrev/V2RayW/releases  
   
 ## 推荐的虚拟专用网络环境  
-* 部分网址可能因为运营商原因无法访问。若无法访问，请从 https://guge.tk 暂时中转访问。  
+* 部分网址可能因为运营商原因无法访问。若无法访问，请从 https://proxy.goldmelon.jp.eu.org 暂时中转访问。  
   
 1.  <a href="https://github.com/Kr328/ClashForAndroid/releases">Clash For Android</a> & <a href="https://github.com/zzzgydi/clash-verge/releases">Clash Verge</a> + 节点 (`部分可能无法连接`) https://ghproxy.com/https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml  
 2.  Shadowrocket for iOS `共享 Apple ID |不要开启双重验证`：https://ccbaohe.vip/appleID/5.html
