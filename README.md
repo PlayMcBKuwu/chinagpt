@@ -38,7 +38,7 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 * **如果有考虑赞助 ChinaGPT，可以添加 QQ：2129767149 / 813716692 方便我们搭建更好的镜像站，您将被标注在特别鸣谢中。**
 * **ChinaGPT 现在急需 ChatGPT Plus 账户，有好心人赞助的话那将万分感谢！[ありがとうございます！](https://fanyi.baidu.com/#zh/jp/%E4%B8%87%E5%88%86%E6%84%9F%E8%B0%A2%EF%BC%81)**
 #  
-* **[日志更新](https://github.com/PlayMcBKuwu/chinagpt/issues/4)已经在 Issues 中更新，以后将可以直接预览更新的内容。  
+* **[日志更新](https://github.com/PlayMcBKuwu/chinagpt/issues/4)已经在 Issues 中更新，以后将可以直接预览更新的内容。**  
 * 如果拥有 ChatGPT Accounts，可以前往：https://ai.fakeopen.com/auth 获取 OpenAI Access Token。  
 * 如果拥有 OpenAI Access Token，可以前往：https://ai.fakeopen.com/token 获取更为稳定的固定 Zhile FK Key。（仍需要每 14 天前往更新 OpenAI Access Token，但是 Zhile FK Key 不会更换）  
 * 如果需要免费 ChatGPT Accounts & API Key，前往：https://proxy.goldmelon.jp.eu.org/---https://fx.fxchatai.xyz/
