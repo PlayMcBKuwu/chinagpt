@@ -76,6 +76,7 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 
 # 推荐站点
 
+0.  **`免费支持 GPT-4！`： http://chatxiaoyue.love/chatgpt/**
 1.  <a href="https://github.com/pengzhile">pengzhile</a> 大佬的 <a href="https://github.com/pengzhile/pandora">Pandora</a>（对话主题使用私密字符串隔开）： https://chat-shared2.zhile.io/shared.html  
 （若需要`使用 ChatGPT Account / OpenAI Access Token / Zhile FK Key`登录的 <a href="https://github.com/pengzhile/pandora">Pandora</a>，请前往：https://chat.zhile.io ）
   
