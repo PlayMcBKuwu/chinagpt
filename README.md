@@ -76,23 +76,24 @@ ChinaGPT 将定期更新在中国可用的 GPT 镜像站。
 
 # 推荐站点
 
-0.  **`免费支持 GPT-4！`： http://chatxiaoyue.love/chatgpt/**
-1.  <a href="https://github.com/pengzhile">pengzhile</a> 大佬的 <a href="https://github.com/pengzhile/pandora">Pandora</a>（对话主题使用私密字符串隔开）： https://chat-shared2.zhile.io/shared.html  
+0.  ~~**`免费支持 GPT-4！`： http://chatxiaoyue.love/chatgpt/**~~ **暂时失效**
+0.  **`无需账号免费支持 GPT-4！`：https://zaimaai.cn/#/chat**
+2.  <a href="https://github.com/pengzhile">pengzhile</a> 大佬的 <a href="https://github.com/pengzhile/pandora">Pandora</a>（对话主题使用私密字符串隔开）： https://chat-shared2.zhile.io/shared.html  
 （若需要`使用 ChatGPT Account / OpenAI Access Token / Zhile FK Key`登录的 <a href="https://github.com/pengzhile/pandora">Pandora</a>，请前往：https://chat.zhile.io ）
   
-2.  `可使用 OpenAI API Key 登录`<a href="https://space.bilibili.com/504821026">学方言的NoobNoob</a> 搭建的 GPT Chinese（`公用 API Key 情况下`只能有一个对话主题）：https://chat.gptchinese.info
+3.  `可使用 OpenAI API Key 登录`<a href="https://space.bilibili.com/504821026">学方言的NoobNoob</a> 搭建的 GPT Chinese（`公用 API Key 情况下`只能有一个对话主题）：https://chat.gptchinese.info
   
-3.  <a href="https://extkj.cn">Ext 游戏攻略网</a>搭建的镜像站（部分情况下会有来自 Google 的广告|支持`预设词`）：https://chat.extkj.cn/
+4.  <a href="https://extkj.cn">Ext 游戏攻略网</a>搭建的镜像站（部分情况下会有来自 Google 的广告|支持`预设词`）：https://chat.extkj.cn/
   
-4.  ChatGPT 猎空公益专用版（支持`预设话术`）：https://chat.lkong.org/
+5.  ChatGPT 猎空公益专用版（支持`预设话术`）：https://chat.lkong.org/
   
-5.  AiDuTu：https://chat.aidutu.cn/#/chat/1002
+6.  AiDuTu：https://chat.aidutu.cn/#/chat/1002
   
-6.  ChatGPT 在线网页版（`GPT-3.5`|支持`预设词`）：https://chatgpt.qdymys.cn/#/chat/1002
+7.  ChatGPT 在线网页版（`GPT-3.5`|支持`预设词`）：https://chatgpt.qdymys.cn/#/chat/1002
   
-7.  <a href="https://github.com/binjie09">binjie09</a> 的镜像站：https://chat.binjie.site:7777/
+8.  <a href="https://github.com/binjie09">binjie09</a> 的镜像站：https://chat.binjie.site:7777/
   
-8. PawanKrd: https://chat.pawan.krd/
+9. PawanKrd: https://chat.pawan.krd/
   
 # 其他无需登陆站点
   
